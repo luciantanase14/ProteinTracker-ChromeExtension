@@ -15,7 +15,7 @@
     "multiple_mounts": true,
     "source": "network"
   },
-
+"short_name": "PTrcker",
 	"options_page" : "options.html",
 
 		"background": {
