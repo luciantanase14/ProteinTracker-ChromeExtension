@@ -20,7 +20,7 @@ body {
 	height: 300px;
 	width: 100%;
 	background-image: url('../img/peanuts.jpeg'); /*Regular Background*/
-	background-image: url('../img/easterEggs.jpeg'); /*Themed Background*/
+	/*background-image: url('../img/easterEggs.jpeg'); Themed Background*/
 	background-position: center bottom;
 	background-size: cover;
 	background-repeat: no-repeat;
