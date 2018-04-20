@@ -9,10 +9,12 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/><br/>
 ## options page
 <br/>
-<img align="left" width="300" src="assets/optionsPart.jpg" alt="options page" />
-<img align="right" width="300" src="assets/popupPart.jpg" alt="popup page" />
+<img width="300" src="assets/optionsPart.jpg" alt="options page" />
+<img width="300" src="assets/popupPart.jpg" alt="popup page" />
 
 <img src="chromeShow.gif" width="800">
 
