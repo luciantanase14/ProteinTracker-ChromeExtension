@@ -6,7 +6,7 @@
 
 # We are live!
 <img align="left" width="300" src="assets/live.jpg" alt="live on chrome store" />
-
+<br/>
 ### This is a simple chrome extension.
 
 ## options page
