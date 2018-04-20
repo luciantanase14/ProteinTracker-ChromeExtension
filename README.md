@@ -10,7 +10,6 @@
 <br/>
 <br/>
 <br/>
-<br/><br/>
 ## options page
 <br/>
 <img width="300" src="assets/optionsPart.jpg" alt="options page" />
