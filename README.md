@@ -4,6 +4,9 @@
 <img align="middle" width="300" src="ninja.png" alt="ninja" />
 # chrome-extension
 
+# We are live!
+<img align="left" width="300" src="assets/live.jpg" alt="live on chrome store" />
+
 ### This is a simple chrome extension.
 
 ## options page
