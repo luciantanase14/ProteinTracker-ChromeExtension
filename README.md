@@ -5,6 +5,7 @@
 # chrome-extension
 
 # We are live!
+### it can be checked here: https://chrome.google.com/webstore/detail/protein-tracker/mokghkeodcncdkpacijgefhfilognnkl
 <img width="600" src="assets/live.jpg" alt="live on chrome store" />
 <br/>
 <br/>
