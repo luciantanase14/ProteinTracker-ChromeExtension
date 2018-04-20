@@ -5,7 +5,7 @@
 # chrome-extension
 
 # We are live!
-<img width="300" src="assets/live.jpg" alt="live on chrome store" />
+<img width="600" src="assets/live.jpg" alt="live on chrome store" />
 <br/>
 <br/>
 <br/>
