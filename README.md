@@ -7,9 +7,10 @@
 # We are live!
 <img align="left" width="300" src="assets/live.jpg" alt="live on chrome store" />
 <br/>
-### This is a simple chrome extension.
-
+<br/>
+<br/>
 ## options page
+<br/>
 <img align="left" width="300" src="assets/optionsPart.jpg" alt="options page" />
 <img align="right" width="300" src="assets/popupPart.jpg" alt="popup page" />
 
