@@ -1,0 +1,35 @@
+Protein Tracker
+Goal:
+Total:
+Enter Amount
+Add Protein
+Options
+
+Personal Protein Tracker
+Protein Tracker lets you track your daily protein intake right from your browser.
+Personal Information
+Save Reset Total
+Name:
+
+Your name
+Age:
+
+Age
+Height:
+
+Height
+Weight:
+
+Weight
+Meals Per Day:
+
+Meals per day
+Gender:
+
+Male
+
+Female
+Protein Goal per Day:
+
+Type your goal: protein in grams
+about us
