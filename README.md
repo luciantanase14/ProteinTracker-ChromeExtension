@@ -5,13 +5,16 @@
 # chrome-extension
 
 # We are live!
-<img align="left" width="300" src="assets/live.jpg" alt="live on chrome store" />
-
-### This is a simple chrome extension.
-
+### it can be checked here: https://chrome.google.com/webstore/detail/protein-tracker/mokghkeodcncdkpacijgefhfilognnkl
+<img width="600" src="assets/live.jpg" alt="live on chrome store" />
+<br/>
+<br/>
+<br/>
+<br/>
 ## options page
-<img align="left" width="300" src="assets/optionsPart.jpg" alt="options page" />
-<img align="right" width="300" src="assets/popupPart.jpg" alt="popup page" />
+<br/>
+<img width="300" src="assets/optionsPart.jpg" alt="options page" />
+<img width="300" src="assets/popupPart.jpg" alt="popup page" />
 
 <img src="chromeShow.gif" width="800">
 
