@@ -1,1 +1,38 @@
+Protein Tracker -> (pt) Rastreador de proteínas
+Goal: -> (pt) Objetivo:
+Total: -> (pt) Total:
+Enter Amount -> (pt) Insira a quantidade
+Add Protein -> (pt) Adicionar Proteína
+Options -> (pt) Opções
 
+Personal Protein Tracker -> (pt) Rastreador de proteínas pessoal
+Protein Tracker lets you track your daily protein intake right from your browser. ->(pt) Este rastreador de proteínas permite rastrear a sua ingestão diária de proteínas através do seu navegador.
+
+Personal Information -> (pt) Informações pessoais
+Save -> (pt) Guardar
+Reset -> (pt) Limpar
+Total -> (pt) Total
+Name: -> (pt) Nome:
+
+Your name -> (pt) O teu nome
+Age: -> (pt) Idade:
+
+Age -> (pt) Idade
+Height: -> (pt) Altura:
+
+Height -> (pt) Altura
+Weight: -> (pt) Peso:
+
+Weight -> (pt) Peso
+Meals Per Day: -> (pt) Refeições por dia:
+
+Meals per day -> (pt) Refeições por dia
+Gender: -> (pt) Gênero:
+
+Male -> (pt) Masculino
+
+Female -> (pt) Feminino
+Protein Goal per Day: -> (pt) Objetivo Proteico por Dia:
+
+Type your goal: protein in grams -> (pt) Digite o seu objetivo: proteína em gramas
+about us -> (pt) sobre nós
