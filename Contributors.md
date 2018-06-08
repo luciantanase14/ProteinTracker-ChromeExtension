@@ -6,3 +6,4 @@
 (https://github.com/DesignBySite)
 - [Dennis Knie] (https://github.com/DennisKnie)
 - [Jon Maldia] (https://github.com/jmaldia)
+- [Lucian Tanase] (https://github.com/luciantanase14)
